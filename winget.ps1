@@ -1,0 +1,10 @@
+winget install 7zip
+winget install AutoHotkey.AutoHotkey
+winget install Discord.Discord
+winget install EpicGames.EpicGamesLauncher
+winget install Flow-Launcher.Flow-Launcher
+winget install Google.Chrome
+winget install Microsoft.VisualStudioCode
+winget install Telegram.TelegramDesktop
+winget install Valve.Steam
+winget install altsnap
