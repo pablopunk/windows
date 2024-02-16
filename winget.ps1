@@ -8,3 +8,4 @@ winget install Microsoft.VisualStudioCode
 winget install Telegram.TelegramDesktop
 winget install Valve.Steam
 winget install altsnap
+winget install Kairos.DuetDisplay
